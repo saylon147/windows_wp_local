@@ -1,0 +1,1 @@
+C:\Users\XXXX\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_XXXXXX\LocalState\Assets
